@@ -1,4 +1,4 @@
-# 나의 첫 GitHub Markdow 연습
+# 나의 첫 GitHub Markdown 연습
 
 ## 자기소개
 
